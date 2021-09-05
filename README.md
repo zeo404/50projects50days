@@ -2,11 +2,11 @@
 
 All these projects have made by TraversyMedia. I am watching their tutorials and sharing in this repository.
 
-- [Link for all projects]()
+- [Link for all projects](https://zeo404-50projects.netlify.app)
 
 |  #  | Project                                                                                                                   | Live Demo                                                                         |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards]()                           | [Live Demo]()               |
+| 01  | [Expanding Cards](https://github.com/zeo404/50projects50days/tree/main/expanding-cards)                           | [Live Demo](https://zeo404-50projects.netlify.app/expanding-cards/index.html)               |
 
 
 ## License
