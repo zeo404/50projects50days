@@ -23,7 +23,6 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            position: relative;
 
             background-size: contain;
             background-position: center;
@@ -38,9 +37,19 @@
         }
 
         a {
-            color: #fff;
+            color: #000;
             font-size: larger;
             text-decoration: none;
+            position: relative;
+        }
+        a span{
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            background-color: #202020;
+            border-top-right-radius: 5px;
+            color: #fff;
+            padding: 3px 8px;
         }
     </style>
 </head>
@@ -48,7 +57,8 @@
 <body>
     <div class="container">
       
-        <a class="card" style="background-image: url('./-boilerplate-/project-images/expanding-cards.png');" href="./expanding-cards/index.html" target="_blank">Day 1</a>
+        <a class="card" style="background-image: url('./-boilerplate-/project-images/expanding-cards.png');" href="./expanding-cards/index.html" target="_blank"><span>Day 1</span></a>
+        <a class="card" style="background-image: url('./-boilerplate-/project-images/progress-steps.png');" href="./progress-steps/index.html" target="_blank"><span>Day 2</span></a>
 
     </div>
 </body>
