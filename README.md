@@ -10,6 +10,8 @@ All these projects have made by TraversyMedia. I am watching their tutorials and
 | 02  | [Progress Steps](https://github.com/zeo404/50projects50days/tree/main/progress-steps)                           | [Live Demo](https://zeo404-50projects.netlify.app/progress-steps/index.html)               |
 | 03  | [Rotating Navigation](https://github.com/zeo404/50projects50days/tree/main/rotating-navigation)                           | [Live Demo](https://zeo404-50projects.netlify.app/rotating-navigation/index.html)               |
 | 04  | [Hidden Search Widget](https://github.com/zeo404/50projects50days/tree/main/hidden-search-widget)                           | [Live Demo](https://zeo404-50projects.netlify.app/hidden-search-widget/index.html)               |
+| 05  | [Hidden Search Widget](https://github.com/zeo404/50projects50days/tree/main/blurry-loading)                           | [Live Demo](https://zeo404-50projects.netlify.app/blurry-loading/index.html)               |
+
 ## License
 
 The MIT License
