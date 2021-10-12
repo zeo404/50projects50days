@@ -11,6 +11,7 @@ All these projects have made by TraversyMedia. I am watching their tutorials and
 | 03  | [Rotating Navigation](https://github.com/zeo404/50projects50days/tree/main/rotating-navigation)                           | [Live Demo](https://zeo404-50projects.netlify.app/rotating-navigation/index.html)               |
 | 04  | [Hidden Search Widget](https://github.com/zeo404/50projects50days/tree/main/hidden-search-widget)                           | [Live Demo](https://zeo404-50projects.netlify.app/hidden-search-widget/index.html)               |
 | 05  | [Blurry Loading](https://github.com/zeo404/50projects50days/tree/main/blurry-loading)                           | [Live Demo](https://zeo404-50projects.netlify.app/blurry-loading/index.html)               |
+| 06  | [Scroll Animation](https://github.com/zeo404/50projects50days/tree/main/scroll-animation)                           | [Live Demo](https://zeo404-50projects.netlify.app/scroll-animation/index.html)               |
 
 ## License
 
