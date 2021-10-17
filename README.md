@@ -14,6 +14,7 @@ All these projects have made by TraversyMedia. I am watching their tutorials and
 | 06  | [Scroll Animation](https://github.com/zeo404/50projects50days/tree/main/scroll-animation)                           | [Live Demo](https://zeo404-50projects.netlify.app/scroll-animation/index.html)               |
 | 07  | [Split Landing Page](https://github.com/zeo404/50projects50days/tree/main/split-landing-page)                           | [Live Demo](https://zeo404-50projects.netlify.app/split-landing-page/index.html)               |
 | 08  | [Form Wave Animation](https://github.com/zeo404/50projects50days/tree/main/form-wave-animation)                           | [Live Demo](https://zeo404-50projects.netlify.app/form-wave-animation/index.html)               |
+| 09  | [Sound Board](https://github.com/zeo404/50projects50days/tree/main/sound-board)                           | [Live Demo](https://zeo404-50projects.netlify.app/sound-board/index.html)               |
 
 ## License
 
